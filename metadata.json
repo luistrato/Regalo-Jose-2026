@@ -1,0 +1,6 @@
+{
+  "name": "Operación Vandelay-7G",
+  "description": "Escape room de temática Homer Simpson y Vandelay Industries para descifrar las llaves secretas y desvelar los regalos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
